@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="300" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tileset" tilewidth="32" tileheight="32">
+  <image source="gfx/tileset.png" width="192" height="832"/>
+ </tileset>
+ <layer name="sky" width="300" height="15" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMBKEL9P3zLcdAwVVTVVVVVVVVVVVVVVVVVVVVVfX9A7SdBZ4=
+  </data>
+ </layer>
+ <layer name="ground" width="300" height="15">
+  <data encoding="base64" compression="zlib">
+   eJztWLtOBDEM3A4ogB+4DwAKoOBZAN8CFEAJDXw+RuKkKKzv/BgnviPF6FarXXs8GTubW0zTtPjFEeGYcFLcs8IbC8kFgVPCGeE8gTaZ0LOWFrm3aa2yAKUpsie9sZBcEHpdEC4JVwHa9Nwn5p7XxIhcpwy5V+UodRpzza4pp+M6TZE96Y1Vvo/2AsLnHk61Nj33ibnnNTGQnmntMW2Oes1LnSSa9ZhpnpxRfFf5X6tpdA2W99H7KMLn0n1Xy8err7a2ueet+mz7N0a95qVOEs2sPvbo6umdVt/OnI7RfYp6v14fBO9HwhPhOUDjTfSI9xzYinumGcjtK0dCnlYfe3T19E7Pb+eINYt6H+X7cka9EF4JbxN+dm2iR7znQAl3xFkk6wyszy2R+4zEE3VNlhpRe0OmPYYDcgZ4epabUeUzLWdXViDPgRwsPVzPqYj5jZgt9bkFwRN57rPUiJq5mjgt+08yG1rAw2PMrjhIv7fK+5FziuOl9ViUXshzn6VGlObr4rQ892zDjOLwH2dXyzq5fizvZ/rPpLXXM9XeQ0tU/yHWDdEXLf0TObvKeJLrHt6JANePmfo0y35s8U82Pqhzj5YPYt2s/Z/BP4jZxdUhud60WW/xdmseGbXx+ifDf0HcNTL3NeGGcOuI8a54dq6On/c/hM9q6tHUxnGw8ilzo/eLkqukRqR3lrm5X2ktXk6r8mk8gNJGykd7T8pRWofWO3O1Rc0iiYfuCPeEB3BuDT4JX6BYZT2a2pAconUtubZev2Vu7jeDZ6weaMFHey+Dd1qt7bo8uyDszcTeAcYfGBgYOADhcPo7r/aB8QcGBga+ATruTi8=
+  </data>
+ </layer>
+ <objectgroup name="objects" width="300" height="15" visible="0">
+  <object name="ground" x="289" y="311" width="92" height="37"/>
+  <object name="ground" x="386" y="279" width="92" height="38"/>
+  <object name="ground" x="482" y="248" width="92" height="37"/>
+  <object name="ground" x="578" y="217" width="92" height="34"/>
+  <object name="ground" x="832" y="315" width="94" height="31"/>
+  <object name="ground" x="930" y="346" width="91" height="35"/>
+  <object name="ground" x="1281" y="349" width="90" height="29"/>
+  <object name="ground" x="1377" y="316" width="92" height="29"/>
+  <object name="ground" x="1474" y="287" width="90" height="27"/>
+  <object name="ground" x="1573" y="253" width="88" height="31"/>
+  <object name="ground" x="1663" y="220" width="95" height="30"/>
+  <object name="ground" x="1759" y="191" width="94" height="27"/>
+  <object name="ground" x="1855" y="158" width="96" height="28"/>
+  <object name="ground" x="1955" y="189" width="88" height="29"/>
+  <object name="ground" x="2052" y="220" width="90" height="31"/>
+  <object name="ground" x="2147" y="250" width="90" height="32"/>
+  <object name="ground" x="2244" y="284" width="89" height="31"/>
+  <object name="ground" x="2340" y="316" width="89" height="29"/>
+  <object name="ground" x="2433" y="345" width="91" height="32"/>
+  <object name="ground" x="2883" y="350" width="88" height="30"/>
+  <object name="ground" x="2978" y="318" width="91" height="27"/>
+  <object name="ground" x="3075" y="316" width="88" height="30"/>
+  <object name="ground" x="3171" y="318" width="89" height="28"/>
+  <object name="ground" x="3267" y="318" width="91" height="26"/>
+  <object name="ground" x="3363" y="344" width="91" height="34"/>
+  <object name="ground" x="3906" y="348" width="91" height="28"/>
+  <object name="ground" x="4004" y="317" width="88" height="28"/>
+  <object name="ground" x="4098" y="284" width="90" height="31"/>
+  <object name="ground" x="4993" y="350" width="92" height="26"/>
+  <object name="ground" x="5092" y="350" width="91" height="27"/>
+  <object name="ground" x="6177" y="347" width="91" height="33"/>
+  <object name="ground" x="6274" y="315" width="91" height="33"/>
+  <object name="ground" x="6370" y="282" width="91" height="34"/>
+  <object name="ground" x="6466" y="248" width="92" height="33"/>
+  <object name="ground" x="7490" y="346" width="92" height="32"/>
+  <object name="ground" x="7588" y="316" width="89" height="31"/>
+  <object name="ground" x="7682" y="317" width="89" height="28"/>
+  <object name="ground" x="7777" y="347" width="91" height="32"/>
+  <object name="ground" x="8642" y="348" width="91" height="30"/>
+  <object name="ground" x="8739" y="317" width="89" height="27"/>
+  <object name="ground" x="8835" y="317" width="90" height="28"/>
+  <object name="ground" x="8931" y="318" width="89" height="28"/>
+  <object name="ground" x="9028" y="283" width="89" height="32"/>
+  <object name="ground" x="9122" y="252" width="90" height="32"/>
+  <object name="ground" x="9219" y="219" width="91" height="31"/>
+  <object name="ground" x="9316" y="253" width="89" height="29"/>
+  <object name="ground" x="9409" y="286" width="92" height="28"/>
+  <object name="spike" x="1112" y="389" width="25" height="26"/>
+  <object name="spike" x="2170" y="390" width="21" height="20"/>
+  <object name="spike" x="3542" y="390" width="29" height="19"/>
+  <object name="spike" x="4536" y="390" width="26" height="17"/>
+  <object name="spike" x="4599" y="388" width="26" height="21"/>
+  <object name="spike" x="4662" y="387" width="26" height="20"/>
+  <object name="spike" x="4728" y="388" width="26" height="19"/>
+  <object name="spike" x="5626" y="388" width="23" height="18"/>
+  <object name="spike" x="6776" y="388" width="23" height="19"/>
+  <object name="spike" x="8122" y="389" width="21" height="17"/>
+  <object name="spike" x="8534" y="388" width="27" height="19"/>
+  <object name="spike" x="9371" y="390" width="22" height="17"/>
+  <object name="ground" x="35" y="380" width="90" height="37"/>
+  <object name="ground" x="1699" y="380" width="91" height="37"/>
+  <object name="ground" x="1797" y="383" width="89" height="34"/>
+  <object name="ground" x="2786" y="381" width="90" height="35"/>
+  <object name="ground" x="3617" y="381" width="94" height="35"/>
+  <object name="ground" x="5825" y="382" width="91" height="32"/>
+  <object name="ground" x="5924" y="380" width="89" height="37"/>
+  <object name="ground" x="6980" y="381" width="90" height="36"/>
+  <object name="ground" x="7138" y="382" width="90" height="33"/>
+  <object name="ground" x="7297" y="382" width="93" height="35"/>
+  <object name="ground" x="8194" y="382" width="91" height="35"/>
+  <object name="finish_line" x="2640" y="-2" width="13" height="418"/>
+  <object name="coin" x="313" y="249" width="38" height="32"/>
+  <object name="coin" x="418" y="213" width="31" height="30"/>
+  <object name="coin" x="515" y="184" width="35" height="32"/>
+  <object name="coin" x="609" y="152" width="37" height="35"/>
+  <object name="coin" x="856" y="257" width="35" height="28"/>
+  <object name="coin" x="957" y="285" width="34" height="28"/>
+  <object name="coin" x="1309" y="285" width="37" height="29"/>
+  <object name="coin" x="1500" y="215" width="37" height="36"/>
+  <object name="coin" x="1698" y="159" width="36" height="30"/>
+  <object name="coin" x="1884" y="106" width="37" height="28"/>
+  <object name="coin" x="2079" y="155" width="34" height="33"/>
+  <object name="coin" x="2174" y="182" width="34" height="35"/>
+  <object name="coin" x="2270" y="219" width="33" height="30"/>
+  <object name="coin" x="2363" y="246" width="36" height="32"/>
+  <object name="coin" x="2458" y="273" width="35" height="38"/>
+  <object name="coin" x="3008" y="262" width="33" height="30"/>
+  <object name="coin" x="3094" y="253" width="39" height="32"/>
+  <object name="coin" x="3188" y="256" width="41" height="36"/>
+  <object name="coin" x="3282" y="257" width="42" height="33"/>
+  <object name="coin" x="3939" y="275" width="33" height="30"/>
+  <object name="coin" x="4033" y="238" width="37" height="35"/>
+  <object name="coin" x="6296" y="237" width="41" height="35"/>
+  <object name="coin" x="6386" y="201" width="45" height="39"/>
+  <object name="coin" x="6202" y="272" width="45" height="41"/>
+  <object name="coin" x="7608" y="254" width="32" height="28"/>
+  <object name="coin" x="7513" y="277" width="37" height="31"/>
+  <object name="coin" x="7792" y="282" width="38" height="30"/>
+  <object name="coin" x="8763" y="249" width="40" height="32"/>
+  <object name="coin" x="8665" y="281" width="41" height="33"/>
+  <object name="coin" x="9050" y="219" width="40" height="30"/>
+  <object name="coin" x="9141" y="183" width="49" height="31"/>
+  <object name="coin" x="9238" y="153" width="43" height="34"/>
+  <object name="coin" x="9332" y="187" width="39" height="31"/>
+  <object name="coin" x="9433" y="226" width="42" height="28"/>
+  <object name="coin" x="8215" y="320" width="39" height="33"/>
+  <object name="coin" x="7159" y="319" width="40" height="34"/>
+  <object name="coin" x="5943" y="325" width="41" height="33"/>
+  <object name="ground" x="3" y="419" width="601" height="59"/>
+  <object name="ground" x="739" y="416" width="8859" height="60"/>
+ </objectgroup>
+</map>
